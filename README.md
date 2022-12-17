@@ -1,2 +1,2 @@
 # blog-website
-blog webiste made with nodejs and mongodb
+blog website made with nodejs and mongodb
